@@ -1,0 +1,22 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "A simple Hello World App",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashrith-Aithal/hello-world-express.git"
+  },
+  "author": "ashrith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashrith-Aithal/hello-world-express/issues"
+  },
+  "homepage": "https://github.com/Ashrith-Aithal/hello-world-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
